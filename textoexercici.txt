@@ -1,3 +1,6 @@
-Hola a veure si això funciona.
+<<<<<<< HEAD
 
 Aqui el text 3 que faig a main.
+
+Aqui l'esprit des de branch1
+>>>>>>> branch1
